@@ -339,7 +339,7 @@ span.service-icon.fa.fa-book.fa-4x, span.service-icon.fa.fa-graduation-cap.fa-4x
 
 /* services */
 .w3-services {
-    padding: 15% 10px;
+    padding: 20% 50px;
 	    background-color: brown;
         
     color: white;
@@ -348,9 +348,11 @@ span.service-icon.fa.fa-book.fa-4x, span.service-icon.fa.fa-graduation-cap.fa-4x
     text-align: center;
     text-transform: uppercase;
     margin-top: -10%;
-	margin-bottom: 2%;
+	margin-bottom: 10%;
 	    font-size: 30px;
     font-weight: 600;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .service h4 {
     text-transform: capitalize;
@@ -812,7 +814,7 @@ span.fa.fa-envelope {
 /* contact */
 
 div#contact {
-    background: url(../images/contact.jpg) no-repeat;
+    background: url(../images/contact.png) no-repeat;
     background-size: cover;
 }
 .w3-contact {
